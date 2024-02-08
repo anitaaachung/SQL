@@ -17,4 +17,19 @@ The project aims to address the following six questions:
 
 -6.Find out the app with highest rank for each genre
 
-By using SQL queries, such as Case When, group by, order by, join, where, AVG(), MIN(), MAX(), and Count() function, 
+
+By using SQL queries, such as Case When, group by, order by, join, where, AVG(), MIN(), MAX(), and Count() function, I derive following useful insights:
+
+1.Paid Apps have higher average rating than Free Apps.
+
+2.Apps with 11-20 supported languages have the highest rating.
+
+3.Top 5 lowest-rated genres:
+
+Catalogs, Finance, Book, Navigation and LifeStyle 
+
+4.Top 5 highest-rated genres:
+
+Productivity, Music, Photo&Video, Business, Health&Fitness
+
+5.The app rating tends to increase with longer descriptions.
