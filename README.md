@@ -1,4 +1,4 @@
-*the full code is in 'App analysis with SQL.sql'* 
+#The full code is in 'App analysis with SQL.sql'
 
 
 This project uses SQL to analyze over 7000 apps available on the App Store, utilizing a dataset from Kaggle. The dataset contains various details about each app, including its name, price, primary genre, number of supported languages, average user rating, number of supporting devices, and application description.
