@@ -3,7 +3,7 @@
 
 This project uses SQL to analyze over 7000 apps available on the App Store, utilizing a dataset from Kaggle. The dataset contains various details about each app, including its name, price, primary genre, number of supported languages, average user rating, number of supporting devices, and application description.
 
-Through SQL queries, such as Case When, group by, order by, where, AVG(), MIN(), MAX(), and Count(), the project aims to address the following six questions:
+The project aims to address the following six questions using SQL queries, such as Case When, group by, order by, join, where, AVG(), MIN(), MAX(), and Count()
 
 -Compare average ratings between free apps and paid apps
 
